@@ -1,0 +1,4 @@
+ERROR - 21:12:23: org.eclipse.emf.ecore.xmi.PackageNotFoundException: Package with uri 'null' not found. (file:///gumball-java-typical/bin/.classpath, 2, 12)
+ERROR - 21:12:23: org.eclipse.emf.ecore.xmi.PackageNotFoundException: Package with uri 'null' not found. (file:///gumball-java-typical/bin/.classpath, 2, 12)
+ERROR - 21:12:37: org.eclipse.emf.ecore.xmi.PackageNotFoundException: Package with uri 'null' not found. (file:///gumball-java-typical/bin/.classpath, 2, 12)
+ERROR - 21:12:37: org.eclipse.emf.ecore.xmi.PackageNotFoundException: Package with uri 'null' not found. (file:///gumball-java-typical/bin/.classpath, 2, 12)
